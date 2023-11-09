@@ -4,8 +4,7 @@
 
 1. [Traffic vehicles Object Detection](https://www.kaggle.com/datasets/hasibullahaman/objectdetectiondatasetcar) **(Main)**
 2. [Traffic vehicles Object Detection](https://www.kaggle.com/datasets/saumyapatel/traffic-vehicles-object-detection)
-3. [DIV2K Dataset](https://www.kaggle.com/datasets/joe1995/div2k-dataset/)
-4. [Traffic Detection Project](https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project)
+3. [Traffic Detection Project](https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project)
 
 ## Referanced Blog Articles:
 
